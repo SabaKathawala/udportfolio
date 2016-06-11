@@ -4,7 +4,7 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
 
 To get started, check out the repository, inspect the code,
 
-### Getting started
+### Getting started 
 
 Some useful tips to help you get started:
 
